@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" alt="Gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif" />
+  <img height="80" alt="Gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif" />
 </p>
 
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-bouncing.gif" width="30px"> I am Josh</h1>
